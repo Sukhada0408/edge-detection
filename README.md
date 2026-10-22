@@ -41,6 +41,13 @@ Edge Tracking by Hysteresis
      v
 Final Edge Map
 ```
+## Output
+
+Average latency: 18.2807 ms over 285 frames
+
+https://github.com/user-attachments/assets/92f76902-70ac-4cd4-85f5-31d4e5458704
+
+
 
 ## Project Structure
 
